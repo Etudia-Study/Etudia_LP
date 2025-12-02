@@ -1,151 +1,159 @@
-body {
+body{
   margin-top: 20px;
   /* margin: 20px 80px; */
-  font-family: "Noto Sans JP", "ヒラギノ角ゴシック", "メイリオ", sans-serif;
 }
 
-.header {
+.header{
   padding: 0px 80px;
   height: 99px;
   display: flex;
 }
 
-.header img {
+.header img{
   width: 214px;
   height: 77px;
+
 }
 
-.header p {
-  color: #5b97cf;
+.header p{
+  color: #5B97CF;
   font-size: 30px;
   margin-top: 22px;
   margin-left: 10px;
+  
 }
 
-.top {
+.top{
   padding-left: 80px;
   display: flex;
   justify-content: space-between;
   height: 676px;
 }
 
-.top_left {
+.top_left{
   margin-top: 100px;
 }
 
-.top1 {
+.top1{
   font-size: 20px;
   margin-bottom: 80px;
 }
 
-.top2 {
+.top2{
   font-size: 35px;
   margin-bottom: 80px;
   font-weight: bold;
-  line-height: 2;
+  line-height: 2.0;
+
+
 }
 
-.top3 {
+.top3{
   font-size: 20px;
   margin-bottom: 80px;
   font-weight: bold;
-  line-height: 2;
+  line-height: 2.0;
 }
 
-.top_right {
+.top_right{
   width: 50%;
   margin-right: 80px;
 }
 
-.top_image {
+.top_image{
   object-fit: cover;
 }
 
-.problem {
+.problem{
   padding: 0px 80px;
   height: 797px;
-  background-color: #a7d3f0;
+  background-color: #A7D3F0;
 }
 
-.problem1 {
+.problem1{
   font-size: 40px;
   padding-top: 80px;
   text-align: center;
   font-weight: bold;
 }
 
-.problem2 {
+.problem2{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   font-weight: bold;
+
 }
 
-.problem3 {
+.problem3{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   margin-bottom: 100px;
+
 }
 
-.ploblem_image {
+.ploblem_image{
   margin: auto;
   display: block;
 }
 
-.solution {
+.solution{
   padding: 0px 80px;
   height: 797px;
   background-color: #fff;
 }
 
-.solution1 {
+.solution1{
   font-size: 40px;
   padding-top: 80px;
   text-align: center;
   font-weight: bold;
 }
 
-.solution2 {
+.solution2{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   font-weight: bold;
+
 }
 
-.solution3 {
+.solution3{
   font-size: 30px;
   padding-top: 50px;
   text-align: center;
   margin-bottom: 100px;
+
 }
 
-.solution_image {
+.solution_image{
   margin: auto;
   display: block;
 }
 
-.mvp {
+.mvp{
   padding: 0px 80px;
   height: 828px;
   background-color: #fff;
 }
 
-.mvp1 {
+.mvp1{
   font-size: 40px;
   padding-top: 80px;
   text-align: center;
   font-weight: bold;
 }
 
-.mvp2 {
+.mvp2{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   font-weight: bold;
+
 }
 
-.mvp3 {
+.mvp3{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
@@ -153,37 +161,40 @@ body {
   margin-bottom: 100px;
 }
 
-.mvp_image {
+.mvp_image{
   margin: auto;
   display: block;
+
 }
 
-.App_design {
+.App_design{
   padding: 0px 80px;
   height: 974px;
-  background-color: #a7d3f0;
+  background-color: #A7D3F0;
 }
 
-.App_design1 {
+.App_design1{
   font-size: 40px;
   padding-top: 80px;
   text-align: center;
   font-weight: bold;
 }
 
-.App_design2 {
+.App_design2{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   font-weight: bold;
+
 }
 
-.App_design3 {
+.App_design3{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   font-weight: bold;
   padding-bottom: 100px;
+
 }
 
 .slideshow-container {
@@ -193,6 +204,7 @@ body {
   overflow: hidden;
   margin: auto;
   display: block;
+
 }
 
 .slide {
@@ -244,71 +256,73 @@ body {
   }
 }
 
-.flow {
+.flow{
   padding: 0px 80px;
   height: 614px;
   background-color: #fff;
 }
 
-.flow1 {
+.flow1{
   font-size: 40px;
   padding-top: 80px;
   text-align: center;
   font-weight: bold;
 }
 
-.flow2 {
+.flow2{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   font-weight: bold;
+
 }
 
-.flow_image {
+.flow_image{
   margin-top: 100px;
 }
 
-.Technology {
+.Technology{
   padding: 0px 80px;
   height: 910px;
   background-color: #fff;
 }
 
-.Technology1 {
+.Technology1{
   font-size: 40px;
   padding-top: 80px;
   text-align: center;
   font-weight: bold;
 }
 
-.Technology2 {
+.Technology2{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   font-weight: bold;
+
 }
 
-.Technology_image {
+.Technology_image{
   margin-top: 100px;
 }
 
-.Technology3 {
+.Technology3{
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
   font-weight: bold;
-  line-height: 2;
+  line-height: 2.0;
 }
 
-.footer {
+.footer{
   padding: 0px 80px;
   height: 280px;
-  background-color: #a7d3f0;
+  background-color: #A7D3F0;
 }
 
-.footer1 {
+.footer1{
   font-size: 30px;
   padding-top: 80px;
   text-align: center;
-  line-height: 2;
+  line-height: 2.0;
 }
